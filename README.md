@@ -36,6 +36,8 @@ Alguns exemplos:
 
 <img src="https://github.com/maats01/challenge-telecom-x/blob/main/assets/boxplot_gasto_diario.png?raw=true" width="60%">
 
+**Obs.: Para uma melhor visualização dos gráficos, recomenda-se abrir o notebook no google colab, clicando no link 'Open In Colab' no topo do documento.**
+
 ### 4. Conclusões e insights
 
 - A Telecom X está com um problema em manter novos clientes:
