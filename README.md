@@ -1,4 +1,5 @@
 # challenge-telecom-x
+<a href=\"https://colab.research.google.com/github/maats01/challenge-telecom-x/blob/main/TelecomX_BR.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>
 
 ### 1. Introdução
 
