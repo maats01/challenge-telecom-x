@@ -17,7 +17,7 @@ Os dados foram importados via *API* e processados utilizando a biblioteca `panda
 
 ### 3. Análise exploratória de dados
 
-Durante a análise exploratória de dados, foram gerados certos tipos de gráficos, como:
+Durante a análise exploratória de dados, foram gerados certos tipos de gráficos, para ajudar melhor na visualização do problema e gerar insights, como:
 - Gráfico de linha
 - Histograma
 - Gráfico de barras
