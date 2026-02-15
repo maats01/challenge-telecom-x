@@ -1,10 +1,10 @@
 # challenge-telecom-x
 
-**1. Introdução**
+### 1. Introdução
 
 A empresa Telecom X está sofrendo com uma alta evasão de clientes (*Churn*), por conta disso foi realizada essa análise para tentar descobrir as possíveis razões disso, para resolver esse problema.
 
-**2. Limpeza e tratamento de dados**
+### 2. Limpeza e tratamento de dados
 
 Os dados foram importados via *API* e processados utilizando a biblioteca `pandas` do **Python**.
 - Os dados estavam originalmente em formato `json`, portanto foi utilizado o método `read_json` para importar a base de dados para o *notebook*.
@@ -15,7 +15,7 @@ Os dados foram importados via *API* e processados utilizando a biblioteca `panda
   - Na coluna `Charges.Total`, foi identificado que quando ela era vazia, era por causa da coluna `tenure` zerada (o que implica que aquele cliente ainda estava no primeiro mês de contrato). Portanto, os valores vazios foram substituidos por zero e a coluna foi convertida para `float64`.
 - As colunas e os dados categóricos foram traduzidas para o português, para padronizar o *dataframe* e ajudar na visualização dos gráficos na etapa de análise exploratória de dados.
 
-**3. Análise exploratória de dados**
+### 3. Análise exploratória de dados
 
 Foram gerados gráficos de barras, linhas e boxplots, com o intuito de compreender melhor a base de dados para gerar insights.
 
@@ -23,7 +23,7 @@ Alguns exemplos:
 
 
 
-**4. Conclusões e insights**
+### 4. Conclusões e insights
 
 - A Telecom X está com um problema em manter novos clientes:
   - **61.99%** dos novos clientes cancelaram o contrato com a Telecom X, no seu primeiro mês. No sexto mês de contrato, a taxa foi consideravelmente menor, porém ainda elevada, de **36.36%**.
@@ -33,7 +33,7 @@ Alguns exemplos:
   - Dos 1869 clientes que cancelaram o contrato, 1655 deles possuiam um contrato mensal com a Telecom X, o que corresponde a **88.5%** de todos os cancelamentos.
   - Combinando isso com o fato do gasto diário superior dos clientes que cancelaram, é possível que um dos motivos de cancelamento seja o custo mensal elevado do contrato dos serviços da Telecom X no modelo de contrato mensal.
  
-**5. Recomendações**
+### 5. Recomendações
 
 **Curto prazo:**
 - Solicitar um *feedback* dos clientes que cancelaram, para tentar entender com mais precisão o motivo do cancelamento.
