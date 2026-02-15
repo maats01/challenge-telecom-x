@@ -17,11 +17,23 @@ Os dados foram importados via *API* e processados utilizando a biblioteca `panda
 
 ### 3. Análise exploratória de dados
 
-Foram gerados gráficos de barras, linhas e boxplots, com o intuito de compreender melhor a base de dados para gerar insights.
+Durante a análise exploratória de dados, foram gerados certos tipos de gráficos, como:
+- Gráfico de linha
+- Histograma
+- Gráfico de barras
+- Boxplot
 
 Alguns exemplos:
 
+<img src="https://github.com/maats01/challenge-telecom-x/blob/main/assets/distribuicao_evasao_clientes.png?raw=true" width="60%">
 
+<img src="https://github.com/maats01/challenge-telecom-x/blob/main/assets/histograma_evasao_clientes.png?raw=true" width="60%">
+
+<img src="https://github.com/maats01/challenge-telecom-x/blob/main/assets/evasoes_por_tipo_contrato.png?raw=true" width="60%">
+
+<img src="https://github.com/maats01/challenge-telecom-x/blob/main/assets/taxa_churn_por_tempo.png?raw=true" width="60%">
+
+<img src="https://github.com/maats01/challenge-telecom-x/blob/main/assets/boxplot_gasto_diario.png?raw=true" width="60%">
 
 ### 4. Conclusões e insights
 
