@@ -27,9 +27,9 @@ Alguns exemplos:
 
 <img src="https://github.com/maats01/challenge-telecom-x/blob/main/assets/distribuicao_evasao_clientes.png?raw=true" width="60%">
 
-<img src="https://github.com/maats01/challenge-telecom-x/blob/main/assets/histograma_evasao_clientes.png?raw=true" width="60%">
+<img src="https://github.com/maats01/challenge-telecom-x/blob/main/assets/histograma_evasao_clientes.png?raw=true" width="80%">
 
-<img src="https://github.com/maats01/challenge-telecom-x/blob/main/assets/evasoes_por_tipo_contrato.png?raw=true" width="60%">
+<img src="https://github.com/maats01/challenge-telecom-x/blob/main/assets/evasoes_por_tipo_contrato.png?raw=true" width="45%">
 
 <img src="https://github.com/maats01/challenge-telecom-x/blob/main/assets/taxa_churn_por_tempo.png?raw=true" width="60%">
 
